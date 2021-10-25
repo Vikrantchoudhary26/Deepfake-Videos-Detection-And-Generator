@@ -43,7 +43,7 @@ Our Pytorch implementation, conducts extensive experiments to demonstrate that t
 
 Python notebook containing TensorFlow DCGAN implementation. It was trained on a Celebrities dataset.
 
-Tools and Technique
+### Tools and Technique
 - Face Forensics++
 - Phoneme-Viseme Mismatches
 - Forensic Technique Using Facial Movements
