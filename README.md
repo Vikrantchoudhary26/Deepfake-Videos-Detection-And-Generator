@@ -119,6 +119,11 @@ Muditya Raghav
 - Instagram
 - Gmail - rmuditya@gmail.com
 
+### Codes
+
+https://github.com/deepfakes/faceswap
+https://github.com/dessa-oss/DeepFake-Detection
+
 
 
 
